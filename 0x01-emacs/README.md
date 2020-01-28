@@ -1,3 +1,3 @@
 **README**
 
-This is a *emacs* command for open file
+These are differents *emacs* command.
